@@ -2,5 +2,6 @@
 
 AAAAAAAAaron Kofsky
 Caleb Jones
+Gaya Pedersen
 Sampoorna Ravikanth
 Shashank Chandru
