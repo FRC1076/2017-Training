@@ -1,10 +1,11 @@
 # 2017-Training
 
-- AAAAAAAAaron Kofsky
+- Aaron Kofsky
 - Caleb Jones
 - Charlie Monk
 - Gaya Pedersen
 - Mark Menge
 - Sampoorna Ravikanth
 - Shashank Chandru
+- Danniell Hu
 - Matthew Jones
