@@ -8,3 +8,4 @@
 - Sampoorna Ravikanth
 - Shashank Chandru
 - Danniell Hu
+- Sachin Nair
