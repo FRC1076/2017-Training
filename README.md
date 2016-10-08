@@ -7,3 +7,4 @@
 - Mark Menge
 - Sampoorna Ravikanth
 - Shashank Chandru
+- Sachin Nair
